@@ -1,0 +1,4 @@
+platform :ios, '8.0'
+target '02-对象持久化技术' do
+pod 'FMDB'
+end
